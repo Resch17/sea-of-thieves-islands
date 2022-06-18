@@ -1,15 +1,9 @@
 import { Grouping, Location } from './types';
 import data from './data.json';
-import logo from './logo.png';
 import {
-    Container,
     Flex,
-    Grid,
-    GridItem,
     Heading,
-    Image,
     Text,
-    useColorMode,
     VStack,
 } from '@chakra-ui/react';
 
@@ -38,7 +32,6 @@ function App() {
 
     return (
         <VStack>
-            <Image src={logo} height="200px" />
             <Flex wrap="wrap" justify="flex-start">
                 {groupings
                     .filter((g) => g.locations.length > 0)

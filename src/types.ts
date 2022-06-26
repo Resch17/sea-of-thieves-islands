@@ -6,7 +6,7 @@ export interface Location {
     | 'The Ancient Isles'
     | 'The Wilds'
     | 'The Shores of Plenty'
-    | "The Devil's Roar";
+    | "The Devil’s Roar";
 }
 
 export interface Grouping {

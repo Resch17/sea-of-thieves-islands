@@ -1,542 +1,536 @@
 [
-  {
-    "name": "Ancient Spires Outpost",
-    "coordinates": "Q-17",
-    "type": "Outpost",
-    "region": "The Ancient Isles"
-  },
-  {
-    "name": "Dagger Tooth Outpost",
-    "coordinates": "M-8",
-    "type": "Outpost",
-    "region": "The Wilds"
-  },
-  {
-    "name": "Galleon’s Grave Outpost",
-    "coordinates": "R-8",
-    "type": "Outpost",
-    "region": "The Wilds"
-  },
-  {
-    "name": "Golden Sands Outpost",
-    "coordinates": "D-10",
-    "type": "Outpost",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "Morrow’s Peak Outpost",
-    "coordinates": "V-17",
-    "type": "Outpost",
-    "region": "The Devil’s Roar"
-  },
-  {
-    "name": "Plunder Outpost",
-    "coordinates": "J-18",
-    "type": "Outpost",
-    "region": "The Ancient Isles"
-  },
-  {
-    "name": "Sanctuary Outpost",
-    "coordinates": "F-7",
-    "type": "Outpost",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "Brian’s Bazaar",
-    "coordinates": "Y-12",
-    "type": "Seapost",
-    "region": "The Devil’s Roar"
-  },
-  {
-    "name": "Roaring Traders",
-    "coordinates": "U-20",
-    "type": "Seapost",
-    "region": "The Devil’s Roar"
-  },
-  {
-    "name": "Stephen’s Spoils",
-    "coordinates": "L-15",
-    "type": "Seapost",
-    "region": "The Ancient Isles"
-  },
-  {
-    "name": "The Finest Trading Post",
-    "coordinates": "F-17",
-    "type": "Seapost",
-    "region": "The Ancient Isles"
-  },
-  {
-    "name": "The North Star Seapost",
-    "coordinates": "H-10",
-    "type": "Seapost",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "The Spoils of Plenty Store",
-    "coordinates": "B-7",
-    "type": "Seapost",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "The Wild Treasures Store",
-    "coordinates": "O-4",
-    "type": "Seapost",
-    "region": "The Wilds"
-  },
-  {
-    "name": "Three Paces East Seapost",
-    "coordinates": "S-9",
-    "type": "Seapost",
-    "region": "The Wilds"
-  },
-  {
-    "name": "Barnacle Cay",
-    "coordinates": "O-15",
-    "type": "Small Island",
-    "region": "The Ancient Isles"
-  },
-  {
-    "name": "Black Sand Atoll",
-    "coordinates": "O-3",
-    "type": "Small Island",
-    "region": "The Wilds"
-  },
-  {
-    "name": "Black Water Enclave",
-    "coordinates": "R-5",
-    "type": "Small Island",
-    "region": "The Wilds"
-  },
-  {
-    "name": "Blind Man’s Lagoon",
-    "coordinates": "N-6",
-    "type": "Small Island",
-    "region": "The Wilds"
-  },
-  {
-    "name": "Booty Isle",
-    "coordinates": "K-20",
-    "type": "Small Island",
-    "region": "The Ancient Isles"
-  },
-  {
-    "name": "Boulder Cay",
-    "coordinates": "G-5",
-    "type": "Small Island",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "Brimstone Rock",
-    "coordinates": "X-18",
-    "type": "Small Island",
-    "region": "The Devil’s Roar"
-  },
-  {
-    "name": "Castaway Isle",
-    "coordinates": "K-14",
-    "type": "Small Island",
-    "region": "The Ancient Isles"
-  },
-  {
-    "name": "Chicken Isle",
-    "coordinates": "I-16",
-    "type": "Small Island",
-    "region": "The Ancient Isles"
-  },
-  {
-    "name": "Cinder Islet",
-    "coordinates": "U-14",
-    "type": "Small Island",
-    "region": "The Devil’s Roar"
-  },
-  {
-    "name": "Cursewater Shores",
-    "coordinates": "Y-13",
-    "type": "Small Island",
-    "region": "The Devil’s Roar"
-  },
-  {
-    "name": "Cutlass Cay",
-    "coordinates": "M-18",
-    "type": "Small Island",
-    "region": "The Ancient Isles"
-  },
-  {
-    "name": "Flame’s End",
-    "coordinates": "V-19",
-    "type": "Small Island",
-    "region": "The Devil’s Roar"
-  },
-  {
-    "name": "Fools Lagoon",
-    "coordinates": "I-14",
-    "type": "Small Island",
-    "region": "The Ancient Isles"
-  },
-  {
-    "name": "Glowstone Cay",
-    "coordinates": "Z-18",
-    "type": "Small Island",
-    "region": "The Devil’s Roar"
-  },
-  {
-    "name": "Isle of Last Words",
-    "coordinates": "O-9",
-    "type": "Small Island",
-    "region": "The Wilds"
-  },
-  {
-    "name": "Lagoon of Whispers",
-    "coordinates": "D-12",
-    "type": "Small Island",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "Liar’s Backbone",
-    "coordinates": "S-11",
-    "type": "Small Island",
-    "region": "The Wilds"
-  },
-  {
-    "name": "Lonely Isle",
-    "coordinates": "G-8",
-    "type": "Small Island",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "Lookout Point",
-    "coordinates": "I-20",
-    "type": "Small Island",
-    "region": "The Ancient Isles"
-  },
-  {
-    "name": "Magma’s Tide",
-    "coordinates": "Y-20",
-    "type": "Small Island",
-    "region": "The Devil’s Roar"
-  },
-  {
-    "name": "Mutineer Rock",
-    "coordinates": "N-19",
-    "type": "Small Island",
-    "region": "The Ancient Isles"
-  },
-  {
-    "name": "Old Salts Atoll",
-    "coordinates": "F-18",
-    "type": "Small Island",
-    "region": "The Ancient Isles"
-  },
-  {
-    "name": "Paradise Spring",
-    "coordinates": "L-17",
-    "type": "Small Island",
-    "region": "The Ancient Isles"
-  },
-  {
-    "name": "Picaroon Palms",
-    "coordinates": "I-4",
-    "type": "Small Island",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "Plunderer’s Plight",
-    "coordinates": "Q-6",
-    "type": "Small Island",
-    "region": "The Wilds"
-  },
-  {
-    "name": "Rapier Cay",
-    "coordinates": "D-8",
-    "type": "Small Island",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "Roaring Sands",
-    "coordinates": "U-21",
-    "type": "Small Island",
-    "region": "The Devil’s Roar"
-  },
-  {
-    "name": "Rum Runner Isle",
-    "coordinates": "H-9",
-    "type": "Small Island",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "Salty Sands",
-    "coordinates": "G-3",
-    "type": "Small Island",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "Sandy Shallows",
-    "coordinates": "D-5",
-    "type": "Small Island",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "Schored Pass",
-    "coordinates": "X-11",
-    "type": "Small Island",
-    "region": "The Devil’s Roar"
-  },
-  {
-    "name": "Scurvy Isley",
-    "coordinates": "K-4",
-    "type": "Small Island",
-    "region": "The Wilds"
-  },
-  {
-    "name": "Sea Dog’s Rest",
-    "coordinates": "C-11",
-    "type": "Small Island",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "Shark Tooth Key",
-    "coordinates": "P-13",
-    "type": "Small Island",
-    "region": "The Wilds"
-  },
-  {
-    "name": "Shiver Retreat",
-    "coordinates": "Q-11",
-    "type": "Small Island",
-    "region": "The Wilds"
-  },
-  {
-    "name": "The Forsaken Brink",
-    "coordinates": "U-16",
-    "type": "Small Island",
-    "region": "The Devil’s Roar"
-  },
-  {
-    "name": "Tribute Peak",
-    "coordinates": "Y-2",
-    "type": "Massive Island",
-    "region": "The Shores Of Gold"
-  },
-  {
-    "name": "Tri-Rock Isle",
-    "coordinates": "R-10",
-    "type": "Small Island",
-    "region": "The Wilds"
-  },
-  {
-    "name": "Twin Groves",
-    "coordinates": "H-11",
-    "type": "Small Island",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "Ashen Reaches",
-    "coordinates": "V-23",
-    "type": "Large Island",
-    "region": "The Devil’s Roar"
-  },
-  {
-    "name": "Cannon Cove",
-    "coordinates": "G-10",
-    "type": "Large Island",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "Crescent Isle",
-    "coordinates": "B-9",
-    "type": "Large Island",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "Crook’s Hollow",
-    "coordinates": "M-16",
-    "type": "Large Island",
-    "region": "The Ancient Isles"
-  },
-  {
-    "name": "Devil’s Ridge",
-    "coordinates": "P-19",
-    "type": "Large Island",
-    "region": "The Ancient Isles"
-  },
-  {
-    "name": "Discovery Ridge",
-    "coordinates": "E-17",
-    "type": "Large Island",
-    "region": "The Ancient Isles"
-  },
-  {
-    "name": "Fetcher’s Rest",
-    "coordinates": "V-12",
-    "type": "Large Island",
-    "region": "The Devil’s Roar"
-  },
-  {
-    "name": "Flintlock Peninsula",
-    "coordinates": "W-14",
-    "type": "Large Island",
-    "region": "The Devil’s Roar"
-  },
-  {
-    "name": "Kraken’s Fall",
-    "coordinates": "R-12",
-    "type": "Large Island",
-    "region": "The Wilds"
-  },
-  {
-    "name": "Lone Cove",
-    "coordinates": "H-6",
-    "type": "Large Island",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "Marauder’s Arch",
-    "coordinates": "Q-3",
-    "type": "Large Island",
-    "region": "The Wilds"
-  },
-  {
-    "name": "Mermaid’s Hideaway",
-    "coordinates": "B-13",
-    "type": "Large Island",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "Old Faithful Isle",
-    "coordinates": "M-4",
-    "type": "Large Island",
-    "region": "The Wilds"
-  },
-  {
-    "name": "Plunder Valley",
-    "coordinates": "G-16",
-    "type": "Large Island",
-    "region": "The Ancient Isles"
-  },
-  {
-    "name": "Ruby’s Fall",
-    "coordinates": "Y-16",
-    "type": "Large Island",
-    "region": "The Devil’s Roar"
-  },
-  {
-    "name": "Sailor’s Bounty",
-    "coordinates": "C-4",
-    "type": "Large Island",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "Shark Bait Cove",
-    "coordinates": "H-19",
-    "type": "Large Island",
-    "region": "The Ancient Isles"
-  },
-  {
-    "name": "Shipwreck Bay",
-    "coordinates": "M-10",
-    "type": "Large Island",
-    "region": "The Wilds"
-  },
-  {
-    "name": "Smugglers’ Bay",
-    "coordinates": "F-3",
-    "type": "Large Island",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "Snake Island",
-    "coordinates": "K-16",
-    "type": "Large Island",
-    "region": "The Ancient Isles"
-  },
-  {
-    "name": "The Crooked Masts",
-    "coordinates": "O-11",
-    "type": "Large Island",
-    "region": "The Wilds"
-  },
-  {
-    "name": "The Devil’s Thirst",
-    "coordinates": "W-21",
-    "type": "Large Island",
-    "region": "The Devil’s Roar"
-  },
-  {
-    "name": "The Sunken Grove",
-    "coordinates": "P-7",
-    "type": "Large Island",
-    "region": "The Wilds"
-  },
-  {
-    "name": "Thieves’ Haven",
-    "coordinates": "L-20",
-    "type": "Large Island",
-    "region": "The Ancient Isles"
-  },
-  {
-    "name": "Wanderers Refuge",
-    "coordinates": "F-12",
-    "type": "Large Island",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "Hidden Spring Keep",
-    "coordinates": "I-8",
-    "type": "Fortress",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "Keel Haul Fort",
-    "coordinates": "C-6",
-    "type": "Fortress",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "Kraken Watchtower",
-    "coordinates": "L-6",
-    "type": "Fortress",
-    "region": "The Wilds"
-  },
-  {
-    "name": "Lost Gold Fort",
-    "coordinates": "H-17",
-    "type": "Fortress",
-    "region": "The Ancient Isles"
-  },
-  {
-    "name": "Molten Sands Fortress",
-    "coordinates": "Z-11",
-    "type": "Fortress",
-    "region": "The Devil’s Roar"
-  },
-  {
-    "name": "Old Boot Fort",
-    "coordinates": "L-14",
-    "type": "Fortress",
-    "region": "The Ancient Isles"
-  },
-  {
-    "name": "Sailor’s Knot Stronghold",
-    "coordinates": "E-14",
-    "type": "Fortress",
-    "region": "The Shores of Plenty"
-  },
-  {
-    "name": "Shark Fin Camp",
-    "coordinates": "P-5",
-    "type": "Fortress",
-    "region": "The Wilds"
-  },
-  {
-    "name": "Skull Keep",
-    "coordinates": "P-9",
-    "type": "Fortress",
-    "region": "The Wilds"
-  },
-  {
-    "name": "The Crow’s Nest Fortress",
-    "coordinates": "O-17",
-    "type": "Fortress",
-    "region": "The Ancient Isles"
-  }
+    {
+        "name": "Ancient Spires Outpost",
+        "coordinates": "Q-17",
+        "type": "Outpost",
+        "region": "The Ancient Isles"
+    },
+    {
+        "name": "Dagger Tooth Outpost",
+        "coordinates": "M-8",
+        "type": "Outpost",
+        "region": "The Wilds"
+    },
+    {
+        "name": "Galleon’s Grave Outpost",
+        "coordinates": "R-8",
+        "type": "Outpost",
+        "region": "The Wilds"
+    },
+    {
+        "name": "Golden Sands Outpost",
+        "coordinates": "D-10",
+        "type": "Outpost",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "Morrow’s Peak Outpost",
+        "coordinates": "V-17",
+        "type": "Outpost",
+        "region": "The Devil’s Roar"
+    },
+    {
+        "name": "Plunder Outpost",
+        "coordinates": "J-18",
+        "type": "Outpost",
+        "region": "The Ancient Isles"
+    },
+    {
+        "name": "Sanctuary Outpost",
+        "coordinates": "F-7",
+        "type": "Outpost",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "Brian’s Bazaar",
+        "coordinates": "Y-12",
+        "type": "Seapost",
+        "region": "The Devil’s Roar"
+    },
+    {
+        "name": "Roaring Traders",
+        "coordinates": "U-20",
+        "type": "Seapost",
+        "region": "The Devil’s Roar"
+    },
+    {
+        "name": "Stephen’s Spoils",
+        "coordinates": "L-15",
+        "type": "Seapost",
+        "region": "The Ancient Isles"
+    },
+    {
+        "name": "The Finest Trading Post",
+        "coordinates": "F-17",
+        "type": "Seapost",
+        "region": "The Ancient Isles"
+    },
+    {
+        "name": "The North Star Seapost",
+        "coordinates": "H-10",
+        "type": "Seapost",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "The Spoils of Plenty Store",
+        "coordinates": "B-7",
+        "type": "Seapost",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "The Wild Treasures Store",
+        "coordinates": "O-4",
+        "type": "Seapost",
+        "region": "The Wilds"
+    },
+    {
+        "name": "Three Paces East Seapost",
+        "coordinates": "S-9",
+        "type": "Seapost",
+        "region": "The Wilds"
+    },
+    {
+        "name": "Barnacle Cay",
+        "coordinates": "O-15",
+        "type": "Small Island",
+        "region": "The Ancient Isles"
+    },
+    {
+        "name": "Black Sand Atoll",
+        "coordinates": "O-3",
+        "type": "Small Island",
+        "region": "The Wilds"
+    },
+    {
+        "name": "Black Water Enclave",
+        "coordinates": "R-5",
+        "type": "Small Island",
+        "region": "The Wilds"
+    },
+    {
+        "name": "Blind Man’s Lagoon",
+        "coordinates": "N-6",
+        "type": "Small Island",
+        "region": "The Wilds"
+    },
+    {
+        "name": "Booty Isle",
+        "coordinates": "K-20",
+        "type": "Small Island",
+        "region": "The Ancient Isles"
+    },
+    {
+        "name": "Boulder Cay",
+        "coordinates": "G-5",
+        "type": "Small Island",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "Brimstone Rock",
+        "coordinates": "X-18",
+        "type": "Small Island",
+        "region": "The Devil’s Roar"
+    },
+    {
+        "name": "Castaway Isle",
+        "coordinates": "K-14",
+        "type": "Small Island",
+        "region": "The Ancient Isles"
+    },
+    {
+        "name": "Chicken Isle",
+        "coordinates": "I-16",
+        "type": "Small Island",
+        "region": "The Ancient Isles"
+    },
+    {
+        "name": "Cinder Islet",
+        "coordinates": "U-14",
+        "type": "Small Island",
+        "region": "The Devil’s Roar"
+    },
+    {
+        "name": "Cursewater Shores",
+        "coordinates": "Y-13",
+        "type": "Small Island",
+        "region": "The Devil’s Roar"
+    },
+    {
+        "name": "Cutlass Cay",
+        "coordinates": "M-18",
+        "type": "Small Island",
+        "region": "The Ancient Isles"
+    },
+    {
+        "name": "Flame’s End",
+        "coordinates": "V-19",
+        "type": "Small Island",
+        "region": "The Devil’s Roar"
+    },
+    {
+        "name": "Fools Lagoon",
+        "coordinates": "I-14",
+        "type": "Small Island",
+        "region": "The Ancient Isles"
+    },
+    {
+        "name": "Glowstone Cay",
+        "coordinates": "Z-18",
+        "type": "Small Island",
+        "region": "The Devil’s Roar"
+    },
+    {
+        "name": "Isle of Last Words",
+        "coordinates": "O-9",
+        "type": "Small Island",
+        "region": "The Wilds"
+    },
+    {
+        "name": "Lagoon of Whispers",
+        "coordinates": "D-12",
+        "type": "Small Island",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "Liar’s Backbone",
+        "coordinates": "S-11",
+        "type": "Small Island",
+        "region": "The Wilds"
+    },
+    {
+        "name": "Lonely Isle",
+        "coordinates": "G-8",
+        "type": "Small Island",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "Lookout Point",
+        "coordinates": "I-20",
+        "type": "Small Island",
+        "region": "The Ancient Isles"
+    },
+    {
+        "name": "Magma’s Tide",
+        "coordinates": "Y-20",
+        "type": "Small Island",
+        "region": "The Devil’s Roar"
+    },
+    {
+        "name": "Mutineer Rock",
+        "coordinates": "N-19",
+        "type": "Small Island",
+        "region": "The Ancient Isles"
+    },
+    {
+        "name": "Old Salts Atoll",
+        "coordinates": "F-18",
+        "type": "Small Island",
+        "region": "The Ancient Isles"
+    },
+    {
+        "name": "Paradise Spring",
+        "coordinates": "L-17",
+        "type": "Small Island",
+        "region": "The Ancient Isles"
+    },
+    {
+        "name": "Picaroon Palms",
+        "coordinates": "I-4",
+        "type": "Small Island",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "Plunderer’s Plight",
+        "coordinates": "Q-6",
+        "type": "Small Island",
+        "region": "The Wilds"
+    },
+    {
+        "name": "Rapier Cay",
+        "coordinates": "D-8",
+        "type": "Small Island",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "Roaring Sands",
+        "coordinates": "U-21",
+        "type": "Small Island",
+        "region": "The Devil’s Roar"
+    },
+    {
+        "name": "Rum Runner Isle",
+        "coordinates": "H-9",
+        "type": "Small Island",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "Salty Sands",
+        "coordinates": "G-3",
+        "type": "Small Island",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "Sandy Shallows",
+        "coordinates": "D-5",
+        "type": "Small Island",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "Schored Pass",
+        "coordinates": "X-11",
+        "type": "Small Island",
+        "region": "The Devil’s Roar"
+    },
+    {
+        "name": "Scurvy Isley",
+        "coordinates": "K-4",
+        "type": "Small Island",
+        "region": "The Wilds"
+    },
+    {
+        "name": "Sea Dog’s Rest",
+        "coordinates": "C-11",
+        "type": "Small Island",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "Shark Tooth Key",
+        "coordinates": "P-13",
+        "type": "Small Island",
+        "region": "The Wilds"
+    },
+    {
+        "name": "Shiver Retreat",
+        "coordinates": "Q-11",
+        "type": "Small Island",
+        "region": "The Wilds"
+    },
+    {
+        "name": "The Forsaken Brink",
+        "coordinates": "U-16",
+        "type": "Small Island",
+        "region": "The Devil’s Roar"
+    },
+    {
+        "name": "Tri-Rock Isle",
+        "coordinates": "R-10",
+        "type": "Small Island",
+        "region": "The Wilds"
+    },
+    {
+        "name": "Twin Groves",
+        "coordinates": "H-11",
+        "type": "Small Island",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "Ashen Reaches",
+        "coordinates": "V-23",
+        "type": "Large Island",
+        "region": "The Devil’s Roar"
+    },
+    {
+        "name": "Cannon Cove",
+        "coordinates": "G-10",
+        "type": "Large Island",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "Crescent Isle",
+        "coordinates": "B-9",
+        "type": "Large Island",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "Crook’s Hollow",
+        "coordinates": "M-16",
+        "type": "Large Island",
+        "region": "The Ancient Isles"
+    },
+    {
+        "name": "Devil’s Ridge",
+        "coordinates": "P-19",
+        "type": "Large Island",
+        "region": "The Ancient Isles"
+    },
+    {
+        "name": "Discovery Ridge",
+        "coordinates": "E-17",
+        "type": "Large Island",
+        "region": "The Ancient Isles"
+    },
+    {
+        "name": "Fetcher’s Rest",
+        "coordinates": "V-12",
+        "type": "Large Island",
+        "region": "The Devil’s Roar"
+    },
+    {
+        "name": "Flintlock Peninsula",
+        "coordinates": "W-14",
+        "type": "Large Island",
+        "region": "The Devil’s Roar"
+    },
+    {
+        "name": "Kraken’s Fall",
+        "coordinates": "R-12",
+        "type": "Large Island",
+        "region": "The Wilds"
+    },
+    {
+        "name": "Lone Cove",
+        "coordinates": "H-6",
+        "type": "Large Island",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "Marauder’s Arch",
+        "coordinates": "Q-3",
+        "type": "Large Island",
+        "region": "The Wilds"
+    },
+    {
+        "name": "Mermaid’s Hideaway",
+        "coordinates": "B-13",
+        "type": "Large Island",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "Old Faithful Isle",
+        "coordinates": "M-4",
+        "type": "Large Island",
+        "region": "The Wilds"
+    },
+    {
+        "name": "Plunder Valley",
+        "coordinates": "G-16",
+        "type": "Large Island",
+        "region": "The Ancient Isles"
+    },
+    {
+        "name": "Ruby’s Fall",
+        "coordinates": "Y-16",
+        "type": "Large Island",
+        "region": "The Devil’s Roar"
+    },
+    {
+        "name": "Sailor’s Bounty",
+        "coordinates": "C-4",
+        "type": "Large Island",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "Shark Bait Cove",
+        "coordinates": "H-19",
+        "type": "Large Island",
+        "region": "The Ancient Isles"
+    },
+    {
+        "name": "Shipwreck Bay",
+        "coordinates": "M-10",
+        "type": "Large Island",
+        "region": "The Wilds"
+    },
+    {
+        "name": "Smugglers’ Bay",
+        "coordinates": "F-3",
+        "type": "Large Island",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "Snake Island",
+        "coordinates": "K-16",
+        "type": "Large Island",
+        "region": "The Ancient Isles"
+    },
+    {
+        "name": "The Crooked Masts",
+        "coordinates": "O-11",
+        "type": "Large Island",
+        "region": "The Wilds"
+    },
+    {
+        "name": "The Devil’s Thirst",
+        "coordinates": "W-21",
+        "type": "Large Island",
+        "region": "The Devil’s Roar"
+    },
+    {
+        "name": "The Sunken Grove",
+        "coordinates": "P-7",
+        "type": "Large Island",
+        "region": "The Wilds"
+    },
+    {
+        "name": "Thieves’ Haven",
+        "coordinates": "L-20",
+        "type": "Large Island",
+        "region": "The Ancient Isles"
+    },
+    {
+        "name": "Wanderers Refuge",
+        "coordinates": "F-12",
+        "type": "Large Island",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "Hidden Spring Keep",
+        "coordinates": "I-8",
+        "type": "Fortress",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "Keel Haul Fort",
+        "coordinates": "C-6",
+        "type": "Fortress",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "Kraken Watchtower",
+        "coordinates": "L-6",
+        "type": "Fortress",
+        "region": "The Wilds"
+    },
+    {
+        "name": "Lost Gold Fort",
+        "coordinates": "H-17",
+        "type": "Fortress",
+        "region": "The Ancient Isles"
+    },
+    {
+        "name": "Molten Sands Fortress",
+        "coordinates": "Z-11",
+        "type": "Fortress",
+        "region": "The Devil’s Roar"
+    },
+    {
+        "name": "Old Boot Fort",
+        "coordinates": "L-14",
+        "type": "Fortress",
+        "region": "The Ancient Isles"
+    },
+    {
+        "name": "Sailor’s Knot Stronghold",
+        "coordinates": "E-14",
+        "type": "Fortress",
+        "region": "The Shores of Plenty"
+    },
+    {
+        "name": "Shark Fin Camp",
+        "coordinates": "P-5",
+        "type": "Fortress",
+        "region": "The Wilds"
+    },
+    {
+        "name": "Skull Keep",
+        "coordinates": "P-9",
+        "type": "Fortress",
+        "region": "The Wilds"
+    },
+    {
+        "name": "The Crow’s Nest Fortress",
+        "coordinates": "O-17",
+        "type": "Fortress",
+        "region": "The Ancient Isles"
+    }
 ]
